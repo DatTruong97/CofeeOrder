@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Order Coffee</string>
+    <string name="name">Tên</string>
+    <string name="toppings">Toppings</string>
+    <string name="quantity">Số lượng</string>
+    <string name="cream">Bọt kem</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Order_summary">Hóa đơn</string>
+    <string name="thank_you">Cảm ơn!!</string>
+    <string name="quantity1">Số lượng</string>
+    <string name="hasChocolate">Thêm chocolate?</string>
+    <string name="hasCream">Thêm kem?</string>
+    <string name="Order_summary_name">Tên:</string>
+    <string name="Total">Tổng cộng</string>
+    <string name="order">Đặt hàng</string>
+
+</resources>
